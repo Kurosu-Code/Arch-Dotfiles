@@ -50,7 +50,7 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 cd
 
 # Clone the repository from your home directory
-git clone https://github.com/Kurosu-Code/Arch-Dotfiles.git
+git clone https://github.com/Kurosu-Code/dotfiles.git
 
 # Or download the lastest version and unzip into ~/dotfiles folder
 
