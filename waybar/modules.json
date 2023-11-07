@@ -126,6 +126,13 @@
         "tooltip": false
     },
 
+    // Twitch Launcher
+    "custom/twitch": {
+        "format": " ",
+        "on-click": "brave --app=https://twitch.tv",
+        "tooltip": false
+    },
+
     // Rofi Calculator
     "custom/calculator": {
         "format": "",
