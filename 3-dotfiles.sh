@@ -76,6 +76,7 @@ _installSymLink starship ~/.config/starship.toml ~/dotfiles/starship/starship.to
 _installSymLink rofi ~/.config/rofi ~/dotfiles/rofi/ ~/.config
 _installSymLink dunst ~/.config/dunst ~/dotfiles/dunst/ ~/.config
 _installSymLink wal ~/.config/wal ~/dotfiles/wal/ ~/.config
+_installSymLink spotify ~/.config/spotify-flags.conf ~/dotfiles/spotify/spotify-flags.conf ~/.config/spotify-flags.conf
 
 wal -i wallpapers/
 echo "Pywal templates initiated!"
